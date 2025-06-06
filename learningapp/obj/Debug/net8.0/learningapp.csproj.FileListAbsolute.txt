@@ -1,0 +1,7 @@
+C:\temp2\learningapp\obj\Debug\net8.0\learningapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp2\learningapp\obj\Debug\net8.0\learningapp.AssemblyInfoInputs.cache
+C:\temp2\learningapp\obj\Debug\net8.0\learningapp.AssemblyInfo.cs
+C:\temp2\learningapp\obj\Debug\net8.0\learningapp.csproj.CoreCompileInputs.cache
+C:\temp2\learningapp\obj\Debug\net8.0\learningapp.MvcApplicationPartsAssemblyInfo.cache
+C:\temp2\learningapp\obj\Debug\net8.0\learningapp.RazorAssemblyInfo.cache
+C:\temp2\learningapp\obj\Debug\net8.0\learningapp.RazorAssemblyInfo.cs
